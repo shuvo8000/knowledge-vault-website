@@ -1,148 +1,255 @@
-## 🌟 WELCOME TO ( সহজ সরল সিম্পল ) ASSIGNMENT-001 😎
+# 🧠 Knowledge Vault
+
+### Structured Thinking, Not Just Note-Taking.
+
+Knowledge Vault is a modern **Personal Knowledge Management (PKM)** website concept designed to help users organize notes, save useful resources, connect ideas, and transform scattered information into long-term knowledge.
+
+Instead of functioning as a simple note-taking application, Knowledge Vault is designed around the idea of a **"Second Brain"** — a structured environment where notes, links, concepts, and learning summaries can become part of an interconnected knowledge system.
 
 ---
 
-📅 Deadline For 60 marks: 9th January, 2026 (11:59 pm ⏱️)
+## 🌐 Live Demo
 
-📅 Deadline For 50 marks: 10th January, 2026 (11:59 pm ⏱️)
-
-📅 Deadline For 30 marks: Any time after 10th January.
-
-## 🔗 Resources
-
-- **Figma Design:**
-  [https://www.figma.com/design/oMYH7Ccj6UU8MKZwuGiAXB/KnowledgeVault---L1]
-
-## ❓ Common Questions & Answers
-
-**Can I use different images?**
-
-- Yes, you may use any relevant images.
-
-**Can I change the alignment and design freely?**
-
-- No. You must follow the alignment and layout shown in the Figma design.
-
-**Can I change colors?**
-
-- Yes, as long as the colors are relevant and visually consistent.
-
-**Do I need to make the page pixel-perfect?**
-
-- No. You can use your own margin and padding while following the overall structure from Figma.
+🔗 **Live Website:** https://jgmpr5.csb.app/
 
 ---
 
-## 📌 Assignment Requirements
+## 📸 Preview
 
-### ✅ Main Requirements (50 Marks)
+### Hero Section
 
-### 🔹 Navbar Section
+The landing page introduces the core concept of Knowledge Vault:
 
-![Navbar Section](Sections/Navbar.png)
+> **Structured Thinking, Not Just Note-Taking.**
 
-- A logo aligned to the left
-- Menu items centered (as shown in Figma)
-- A button aligned to the right
+Users can learn about the platform and access the early-access call-to-action directly from the hero section.
 
 ---
 
-### 🔹 Banner Section
+## 🎯 Project Overview
 
-![Banner Section](Sections/Banner.png)
+Modern learners often collect information across multiple platforms:
 
-- A full-width background image
-- Center-aligned heading and text (as per Figma)
-- Two buttons below the text, aligned like the Figma design
+- Notes are stored in different applications
+- Useful links become lost in bookmarks
+- Important concepts remain disconnected
+- Previously learned information is difficult to retrieve
+- There is no structured system for long-term knowledge retention
 
----
+Knowledge Vault addresses these problems through a structured personal knowledge environment.
 
-### 🔹 Notes Section
+The core philosophy of the project is:
 
-![Notes Section](Sections/Notes%20Section.png)
-
-- Section heading and subtitle at the top
-- Four cards aligned in a single row
-- Each card must include:
-
-  - An icon
-  - Icon background color similar to Figma
-  - A title and subtitle
+> **Don't just collect information. Build connected knowledge.**
 
 ---
 
-### 🔹 Second Brain Section
+## 📸 Screenshots
 
-![Second Brain Section](Sections/Second%20Brain%20Section.png)
+<img width="1108" height="816" alt="image" src="https://github.com/user-attachments/assets/afb27209-85c4-412e-a0cd-4fef5bfda8ea" />
 
-- An image on the left
-- On the right side:
 
-  - Section message
-  - Title
-  - Description
 
-- A list of items below the description
 
----
+### Solution Section
 
-### 🔹 Footer Section
+![Knowledge Vault Solution](./screenshots/solution.png)
 
-![Footer Section](Sections/Footer.png)
+# ✨ Features
 
-- A logo on the left
-- Social media links with icons on the right
-- A horizontal divider
-- Copyright message below the divider
+## 📚 Structured Notes
+
+Users can organize their thoughts and learning materials in a structured environment rather than keeping scattered notes across multiple applications.
 
 ---
 
-## 🚀 CHALLENGES (10 Marks)
+## 🔖 Bookmark Management
 
-### 🔸 Early Access Section
-
-![Early Access Section](Sections/Early%20Access%20Section.png)
-
-- A centered title and subtitle
-- Below the subtitle:
-
-  - A simple message
-  - A “Get Early Access” button with an icon
-
-- Two ending messages below the button
+Knowledge Vault is designed to reduce bookmark overload by providing a centralized place to store useful links and learning resources.
 
 ---
 
-### 🔸 Interaction & Code Quality
+## 🧠 Idea Connections
 
-- Hover effects on all buttons
-- Minimum **5 GitHub commits**
-- **No Lorem Ipsum** text anywhere on the website
+Related concepts can be connected together to help users understand relationships between different topics.
 
----
-
-## 🛠️ Tech Stack
-
-- HTML5
-- CSS3
-- No JavaScript
-- No CSS frameworks or libraries
+The goal is to transform isolated information into a larger understanding.
 
 ---
 
-## ✅ Submission Checklist
+## 💡 Knowledge Retention
 
-- Figma layout followed correctly
-- Proper alignment and spacing
-- Clean and readable HTML & CSS
-- Live site deployed
-- Public GitHub repository
+The platform concept focuses on long-term learning rather than simply collecting information.
+
+Reflection and structured organization can help users retain what they learn.
 
 ---
 
-## 📂 Submission Format
+## 🔍 Semantic Search
 
-- **GitHub Repository Link**
-- **Live Website Link (GitHub Pages)**
+The concept includes semantic search so users can quickly find information based on meaning rather than relying only on exact keywords.
 
 ---
+
+## 🚀 Early Access
+
+The landing page includes multiple call-to-action sections encouraging users to join the early-access program.
+
+---
+
+## 🎨 Modern User Interface
+
+The website uses a clean and modern interface with:
+
+- Minimal design
+- Rounded cards
+- Consistent spacing
+- Green accent colors
+- Dark navy sections
+- Clear typography
+- Modern call-to-action buttons
+- Visual icons
+
+---
+
+# 🖥️ Website Sections
+
+## 1. Navigation Bar
+
+The navigation bar contains:
+
+- Knowledge Vault logo
+- Features
+- How It Works
+- Why It's Different
+- Get Early Access button
+
+---
+
+## 2. Hero Section
+
+The hero section is the main introduction to the product.
+
+### Main Heading
+
+> **Structured Thinking, Not Just Note-Taking.**
+
+### Description
+
+> A private space to store notes, links, and learning summaries — designed to help you think clearly, connect ideas, and turn learning into long-term knowledge.
+
+### Actions
+
+- Start Building Your Vault
+- See How It Works
+
+---
+
+## 3. Problem Section
+
+This section explains the problems users face with traditional note-taking systems.
+
+### Scattered Notes
+
+> Your ideas live in 10 different apps, none connected.
+
+### Bookmark Overload
+
+> Hundreds of saved links you'll never revisit or remember.
+
+### No Idea Connections
+
+> Insights stay isolated, never building into bigger understanding.
+
+### Forgetting What You Learned
+
+> Knowledge fades because there's no system to retain it.
+
+---
+
+## 4. Solution Section
+
+The solution section introduces Knowledge Vault as a personal **Second Brain**.
+
+### Heading
+
+> **Your Second Brain, Structured By Design.**
+
+The platform is presented as a thinking environment where every note, link, and summary becomes part of an interconnected web of understanding.
+
+### Core Benefits
+
+- Capture ideas with structure built-in from day one
+- Connect related concepts automatically as you write
+- Build lasting knowledge through reflection prompts
+- Find anything instantly with semantic search
+
+---
+
+## 5. Call-To-Action Section
+
+The CTA section encourages visitors to join the early-access program.
+
+### Heading
+
+> **Ready To Think More Clearly?**
+
+### Supporting Text
+
+> Join thousands of learners who are building their personal knowledge vaults.
+
+The section also highlights:
+
+> Free during early access • No credit card needed
+
+---
+
+## 6. Footer
+
+The footer contains:
+
+- Knowledge Vault branding
+- Social media links
+- X / Twitter
+- LinkedIn
+- Facebook
+- Copyright information
+
+---
+
+# 🛠️ Technologies Used
+
+This project is built using standard frontend web technologies.
+
+| Technology | Purpose |
+|---|---|
+| HTML5 | Website structure |
+| CSS3 | Styling and layout |
+| JavaScript | Interactive functionality |
+| Font Awesome | Icons |
+| Google Fonts | Typography |
+
+---
+
+# 📁 Project Structure
+
+```text
+knowledge-vault/
+│
+├── index.html
+│
+├── style.css
+│
+├── script.js
+│
+├── assets/
+│   ├── logo.png
+│   ├── logo-footer.png
+│   ├── Vector.png
+│   ├── Bookmarks.png
+│   ├── Brain.png
+│   ├── Info.png
+│   ├── CheckCircle.png
+│   └── ...
+│
+└── README.md
