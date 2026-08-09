@@ -6,11 +6,6 @@ Knowledge Vault is a modern **Personal Knowledge Management (PKM)** website conc
 
 Instead of functioning as a simple note-taking application, Knowledge Vault is designed around the idea of a **"Second Brain"** — a structured environment where notes, links, concepts, and learning summaries can become part of an interconnected knowledge system.
 
----
-
-## 🌐 Live Demo
-
-🔗 **Live Website:** https://jgmpr5.csb.app/
 
 ---
 
@@ -231,8 +226,7 @@ This project is built using standard frontend web technologies.
 | Technology | Purpose |
 |---|---|
 | HTML5 | Website structure |
-| CSS3 | Styling and layout |
-| JavaScript | Interactive functionality |
+| CSS3 | Styling and layouty |
 | Font Awesome | Icons |
 | Google Fonts | Typography |
 
