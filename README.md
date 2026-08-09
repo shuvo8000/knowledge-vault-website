@@ -46,7 +46,14 @@ The core philosophy of the project is:
 
 ## 📸 Screenshots
 
-<img width="1108" height="816" alt="image" src="https://github.com/user-attachments/assets/afb27209-85c4-412e-a0cd-4fef5bfda8ea" />
+<img width="917" height="440" alt="image" src="https://github.com/user-attachments/assets/80d2187b-49df-4876-9440-942432de6249" />
+
+<img width="912" height="736" alt="image" src="https://github.com/user-attachments/assets/4887d7f7-a393-4b36-ae6d-05b10cab08c6" />
+
+<img width="911" height="205" alt="image" src="https://github.com/user-attachments/assets/7bd0f230-9fb6-4542-83d4-80243010f332" />
+
+
+
 
 
 
