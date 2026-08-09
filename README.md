@@ -9,6 +9,9 @@ Instead of functioning as a simple note-taking application, Knowledge Vault is d
 
 ---
 
+##Live Demo
+https://shuvo8000.github.io/knowledge-vault-website/
+
 ## 📸 Preview
 
 ### Hero Section
